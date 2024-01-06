@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the purpose of supervised learning algorithms?,a: To build a mathematical model of a set of data | b: To classify inputs into a limited set of values | c: To measure the similarity between two objects | d: To optimize an objective function,a
+What is the name given to the set of data used to train supervised learning algorithms?,a: Feature vector | b: Objective function | c: Training data | d: Supervisory signal,c
+Which type of supervised learning algorithm is used when the outputs may have any numerical value within a range?,a: Active learning | b: Classification | c: Regression | d: Similarity learning,c
+"In the context of a classification algorithm for filtering emails, what would be the input?",a: Incoming email | b: Name of the folder | c: Training example | d: Feature vector,a
+Which application is closely related to similarity learning?,a: Ranking | b: Recommendation systems | c: Visual identity tracking | d: Face verification,b
